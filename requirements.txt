@@ -1,0 +1,4 @@
+ecdsa==0.18.0
+base58==2.1.1
+cryptography==42.0.4
+bech32==1.2.0
